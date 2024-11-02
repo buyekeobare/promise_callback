@@ -14,3 +14,4 @@ myPromise.then((successMessage) => {
 
 //Console log after calling the promise
   console.log("After calling promise");
+
